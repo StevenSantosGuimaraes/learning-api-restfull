@@ -22,3 +22,7 @@ O principal objetivo deste projeto é entender os conceitos fundamentais de cons
 1. Clone o repositório:
    ```bash
    git clone https://github.com/StevenSantosGuimaraes/learning-api-restfull.git
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. Este projeto é destinado a fins educacionais.
